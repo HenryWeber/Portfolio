@@ -1,6 +1,6 @@
-<p align="center">
+<p>
     <h1 align="center"> My Portfolio </h1>
-    <strong>A basic portfolio outline</strong>
+    <strong align="center">A basic portfolio outline</strong>
 </p>
 
 # Portfolio
